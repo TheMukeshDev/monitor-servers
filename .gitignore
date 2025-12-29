@@ -1,3 +1,5 @@
 config.ini
 constants.py
 servers.pickle
+__pycache__/
+.vscode/
